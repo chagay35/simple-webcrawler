@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.example.ex3_badichi","l":"Crawlers"},{"p":"com.example.ex3_badichi","l":"LandingWebCrawler"},{"p":"com.example.ex3_badichi","l":"ShowResult"},{"p":"com.example.ex3_badichi","l":"WebCrawler"}];updateSearchResults();
